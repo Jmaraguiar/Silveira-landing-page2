@@ -28,9 +28,9 @@ Projeto postado no Surge
 
 ## 🧑‍💻 Autores
 
--Adernam Bauli
--Eric Felipe Silva
--João Marcos Alves
+- Adernam Bauli
+- Eric Felipe Silva
+- João Marcos Alves
 
 
 
